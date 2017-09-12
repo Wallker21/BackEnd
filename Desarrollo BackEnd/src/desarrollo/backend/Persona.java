@@ -116,3 +116,6 @@ public class Persona {
         return getIMB()* getNAF();
     }
 }
+
+
+/* TESTING */
